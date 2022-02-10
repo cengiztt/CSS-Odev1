@@ -1,0 +1,60 @@
+body {font-family: 'Farsan', cursive;
+    font-size: large;
+    background-color: #D3ECA7;
+
+    }
+    h1, h2, p {
+            text-align: left;
+            margin-left: 2%;
+            color: #19282F;
+        }
+
+        .menu {
+            text-align: center; font-size: larger; font-weight: bold;
+        }
+
+        .margin {
+            padding: 4px 10px;
+            margin: 5%;
+        }
+
+        a:hover {
+            color: #B33030;
+        }
+
+        a:active {
+            background-color: #c4df97;
+            outline-style: inset;
+            outline-color: #A1B57D;
+        }
+
+        a {
+            color: #19282F;
+            text-decoration: none;
+        }
+
+        .fotolar {
+            float: left;
+            margin-left: 3%;
+            outline-color: #A1B57D;
+            outline-style: solid;
+            outline-width: 1px;
+            margin-bottom: 5px;
+        }
+
+        .cerceve {
+            width: 400px;
+            height: 400px;
+            border-style: solid;
+            border-color: rgb(175, 77, 77);
+            border-width: 2px;
+            background-color: #c1da97;
+            float: left;
+        }
+
+        .caption {
+            text-align: center;
+            font-weight: bold;
+            color: #19282F;
+            
+        }
